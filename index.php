@@ -2,7 +2,7 @@
     <head>
         <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
 <script>
-
+echo 'hello world'
 function sendToDatabase(){
 
   var name = document.getElementById('sn').value;
